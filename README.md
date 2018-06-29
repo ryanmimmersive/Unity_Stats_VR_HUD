@@ -2,7 +2,7 @@
 
 Unity Statistics VR HUD and Debug Tool
 
-Download package here: 
+ADD TO MAIN CAMERA TO USE
 
 Statistics HUD
 This tool was created for quick and easy issue identification and optimization inside VR, it aims to make the process easier while using HMDs. The Unity Editor provides useful information in its dropdown “Stats” window, however this overlay is not visible in VR. This results in having to remove the headset or partially wearing it to see these useful real-time values. This tool takes the most important values: FPS, batches, set-pass calls, tris and puts them in a world space canvas so they can be monitored easily in real-time while in VR. It also includes additional useful features for debugging. 
